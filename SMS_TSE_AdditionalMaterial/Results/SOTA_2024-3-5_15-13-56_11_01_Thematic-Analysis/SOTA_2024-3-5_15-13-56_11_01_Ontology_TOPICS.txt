@@ -1,0 +1,56 @@
+ONTOLOGY-TOPICS MAPPING
+
+Systems and Software Engineering:
+Topic 38: systems, support, complex, operations, generation
+Topic 09: software, processes, challenges, study, components
+Topic 12: engineering, processes, driven, challenges, enable
+
+Software Engineering Activities:
+Topic 10: requirements, language, driven, automated, level
+Topic 11: modeling, existing, proposed, languages, provide
+Topic 16: code, generation, driven, time, approaches
+Topic 03: testing, execution, proposed, automatically, environment
+Topic 20: monitoring, level, proposed, complex, operations
+
+Model-Based Software Engineering:
+Topic 01: based, model, approaches, study, components
+Topic 24: models, model, time, paper, language
+
+Model-Driven Software Engineering:
+Topic 31: model, driven, paper, integrated, techniques
+Topic 35: mde, agile, driven, study, engineering
+Topic 25: domain, specific, set, tool, language
+Topic 29: tools, languages, model, specific, language
+
+DevOps:
+Topic 05: devops, practices, processes, enable, operations
+Topic 19: management, increasing, execution, challenges, operations
+Topic 15: development, agile, practices, tool, complex
+Topic 07: deployment, specific, automatically, generation, existing
+Topic 22: continuous, time, set, tool, practices
+Topic 23: integration, proposed, study, automatically, implementation
+Topic 21: automation, challenges, tool, provide, processes
+
+Artificial Intelligence:
+Topic 06: data, techniques, components, driven, developed
+Topic 02: learning, set, propose, time, machine
+Topic 33: machine, learning, techniques, study, operations
+
+Cyber-Physical Systems:
+Topic 08: cyber, physical, systems, agile, challenges
+Topic 36: industrial, industry, control, cyber, implementation
+
+Cloud:
+Topic 04: cloud, complexity, language, environment, support
+
+Others:
+Topic 37: process, control, based, increasing, processes
+Topic 30: performance, approach, time, approaches, evaluation
+Topic 28: analysis, automated, tool, language, evaluation
+Topic 26: design, environment, approach, specific, implementation
+Topic 13: architecture, evaluation, approach, propose, implementation
+Topic 27: applications, driven, implementation, paper, key
+Topic 14: application, automatically, execution, time, existing
+Topic 34: context, support, approaches, provide, set
+Topic 17: quality, control, enable, level, environment
+Topic 18: framework, proposed, control, increasing, components

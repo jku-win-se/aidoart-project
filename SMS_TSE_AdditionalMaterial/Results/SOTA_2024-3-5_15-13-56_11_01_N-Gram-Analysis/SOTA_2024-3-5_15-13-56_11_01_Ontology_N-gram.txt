@@ -1,0 +1,31 @@
+This ontology provides a basic structure for representing the relationships between the concepts found in the n-grams list and focuses on the relationships between the provided n-grams and captures the relationships between concepts based on the frequency of their co-occurrence in the n-grams list.
+
+Relationships:
+
+Uses:
+Software Development uses Software Architecture
+Software Testing uses Test Case, Regression Testing
+Machine Learning uses Big Data, Big Data Analytics
+DevOps uses Cloud Computing
+
+Related To:
+Model-Driven Engineering related to Model-Based Development, Model-Based Testing
+Continuous Integration related to Continuous Delivery
+Artificial Intelligence related to Machine Learning
+Test Case related to Regression Testing, Test Case Prioritization (assuming prioritization is for test cases)
+DevOps related to Digital Twins, IoT
+Testing related to Regression Testing, Integration Testing
+Software Development related to Infrastructure Code, Quality Scenarios, Microservice Architecture, Modeling Languages
+Software Quality related to Testing
+
+Has A:
+Systems Engineering has a Cyber-physical Systems
+
+Notes:
+The frequency of n-grams can be used to weight the strength of relationships between concepts.
+This is a simplified ontology, and additional relationships and classes can be added based on domain knowledge.
+
+"Systems and Software Development" encompasses a larger category due to the high number of n-grams related to it.
+"Testing" is included as a class to group related concepts like Case Prioritization and Regression Testing.
+"Machine Learning" is separated due to the presence of n-grams related to specific techniques (Deep Learning, Neural Networks).
+Other relationships can be added based on further analysis (e.g., Cloud Computing and Infrastructure Code).
