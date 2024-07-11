@@ -6,7 +6,7 @@ This repository is dedicated to housing all the contributions made by Johannes K
 
 ## Contributions
 
-The contributions from JKU encompass a range of materials, including research papers, software tools, and experimental data that support the continuous development of CPS within the AIDOaRt framework.
+JKU's contributions encompass a range of materials, including research papers, software tools, and experimental data, that support the continuous development of CPS within the AIDOaRt framework.
 
 - **AIDOaRt Systematic Mapping Study**
   - A comprehensive review of existing literature and research in the field of AI-augmented automation for Cyber-Physical Systems (CPS).
@@ -22,19 +22,19 @@ The contributions from JKU encompass a range of materials, including research pa
   
   Link: https://github.com/jku-win-se/MOMoT4SAM2024 (Simulation Configuration and Architectural Layouting support)
 
-- **Automation Modeling - CAEX Workbenchh**
-  - AutomationML Modeling is a suite of academic tools built on on top of the AutomationML is a neutral data format based on XML for the storage and exchange of plant engineering information. CAEX (Computer Aided Engineering Exchange) is a neutral data format that allows storage of hierarchical object information. This project provides a Model-Driven Engineering (MDE) Workbench for CAEX (IEC 62424:2016) including Ecore-based CAEX metamodels, tree-based editors, and a Sirius-based graphical editor.
+- **AutomationML Modeling - CAEX Workbench**
+  - AutomationML Modeling is a suite of academic tools built on top of AutomationML, a neutral data format based on XML for the storage and exchange of plant engineering information. CAEX (Computer Aided Engineering Exchange) is a neutral data format that allows storage of hierarchical object information. This project provides a Model-Driven Engineering (MDE) Workbench for CAEX (IEC 62424:2016), including Ecore-based CAEX metamodels, tree-based editors, and a Sirius-based graphical editor.
 
   Link: https://github.com/amlModeling/caex-workbench/tree/variability
 
 
 - **Modeling Event Recorder (part of the Modeling Process Mining Tool)**
-  - The Modeling Process Mining Tool (MPMT) support modeling process mining, i.e., the discovery, monitor ing, and improvement of the modeling activity performed by a modeler creating prescriptive models manipulated in graphical model editors suitable for MDE processes. Its main component is the Modeling Event Recorder (MER), an Eclipse plugin that captures and serializes modeling events from Sirius graphical editor sessions in the XES standard log format. The plugin records user interactions, changes, and actions performed within the Sirius graphical editor, allowing you to analyze and gain insights into the modeling process.
+  - The Modeling Process Mining Tool (MPMT) supports modeling process mining, i.e., the discovery, monitoring, and improvement of the modeling activity performed by a modeler, creating prescriptive models manipulated in graphical model editors suitable for MDE processes. Its main component is the Modeling Event Recorder (MER), an Eclipse plugin that captures and serializes modeling events from Sirius graphical editor sessions in the XES standard log format. The plugin records user interactions, changes, and actions performed within the Sirius graphical editor, allowing you to analyze and gain insights into the modeling process.
 
   Link: https://github.com/jku-win-se/modeling-process-mining
 
 - **DevOpsML**
-  - DevOpsML is a conceptual framework for modeling and combining DevOps processes and platforms. Tools along with their interfaces and capabilities are the building blocks of DevOps platform configurations. Platform configurations can be specified through an ad-hoc metamodel. The platform’s elements can then be mapped to software engineering processes of arbitrary complexity specified via workflow-like languages e.g. SPEM or BPMN. A linking model combines platforms and processes.
+  - DevOpsML is a conceptual framework for modeling and combining DevOps processes and platforms. Tools, along with their interfaces and capabilities, are the building blocks of DevOps platform configurations. Platform configurations can be specified through an ad-hoc metamodel. The platform’s elements can then be mapped to software engineering processes of arbitrary complexity specified via workflow-like languages, e.g., SPEM or BPMN. A linking model combines platforms and processes.
 
   Link: https://github.com/lowcomote/devopsml 
 
