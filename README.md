@@ -14,9 +14,11 @@ The contributions from JKU encompass a range of materials, including research pa
 
 - **MOMoT - Marrying Search-Based Optimization and Model Transformations**
   - MOMoT is a framework that combines model-driven engineering (MDE) techniques with search-based optimization (population-based search and local search), and Reinforcement Learning (RL) methods, to solve highly complex problems on model level. In this framework, problems are represented through Ecore meta-models and their respective model instances. Search-based optimization techniques can then be used to search for a Pareto-optimal set of transformation orchestrations, i.e., an ordered sequence of transformations and their parameters, to produce models with these characteristics.
+  - We are extending MOMoT to support the decision process in FMI-based simulation models configuration and architectural layout modeling, based on a simple Architectural Description Language, Tiny CC
 
   Link: https://github.com/martin-fleck/momot
   Link: https://github.com/martineisenberg/MOMoT-RL (RL Extension)
+  Link: https://github.com/jku-win-se/MOMoT4SAM2024 (Simulation Configuration and Architectural Layouting support)
 
 - **Automation Modeling - CAEX Workbenchh**
   - AutomationML Modeling is a suite of academic tools built on on top of the AutomationML is a neutral data format based on XML for the storage and exchange of plant engineering information. CAEX (Computer Aided Engineering Exchange) is a neutral data format that allows storage of hierarchical object information. This project provides a Model-Driven Engineering (MDE) Workbench for CAEX (IEC 62424:2016) including Ecore-based CAEX metamodels, tree-based editors, and a Sirius-based graphical editor.
