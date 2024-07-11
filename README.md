@@ -34,8 +34,12 @@ The contributions from JKU encompass a range of materials, including research pa
 
   Link: https://github.com/lowcomote/devopsml 
 
+- **CAEX Case Studies**
+  - This repository contains case studies using  AutomationML and CAEX as modeling languages and the CAEX Modeling Workbench as the main editor.
 
-Each directory within this repository contains a README file with more detailed information about these contributions and their relevance to the AIDOaRt Project.
+  Link: https://github.com/jku-win-se/at.jku.bise.aidoart.caex.casestudies
+
+Each directory within this repository should contain a README file with more detailed information about these contributions and their relevance to the AIDOaRt Project.
 
 ## Accessing the Materials
 
