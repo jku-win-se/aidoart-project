@@ -17,7 +17,9 @@ The contributions from JKU encompass a range of materials, including research pa
   - We are extending MOMoT to support the decision process in FMI-based simulation models configuration and architectural layout modeling, based on a simple Architectural Description Language, Tiny CC
 
   Link: https://github.com/martin-fleck/momot
+  
   Link: https://github.com/martineisenberg/MOMoT-RL (RL Extension)
+  
   Link: https://github.com/jku-win-se/MOMoT4SAM2024 (Simulation Configuration and Architectural Layouting support)
 
 - **Automation Modeling - CAEX Workbenchh**
